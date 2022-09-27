@@ -4,8 +4,6 @@ Submit Project1 for FWD course
 
 Project Deploy Static Website on AWS.
 
-bucket name:  my-198829087696-bucket
-
 region : us-east-1
 
 domain name:  https://d3igifxhpygphc.cloudfront.net
